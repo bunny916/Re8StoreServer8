@@ -1,7 +1,11 @@
 {
-    "LatestVersion":  "6.1.0.2",
+    "url":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
+    "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
+    "version":  "6.1.0.3",
     "ForceUpdate":  false,
+    "ReleaseNotes":  "8Store Patched: Immediate GridView ItemsSource loaded fix and Collections icon modulo repeat",
+    "LatestVersion":  "6.1.0.3",
+    "mandatory":  false,
     "MinimumSupportedVersion":  "1.0.0.0",
-    "ReleaseNotes":  "8Store Patched: Immediate GridView ItemsSource loaded fix",
-    "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx"
+    "changelog":  "8Store Patched: Immediate GridView ItemsSource loaded fix and Collections icon modulo repeat"
 }
