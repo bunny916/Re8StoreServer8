@@ -1,7 +1,7 @@
 {
-    "LatestVersion":  "6.1.0.1",
+    "LatestVersion":  "6.1.0.2",
     "ForceUpdate":  false,
     "MinimumSupportedVersion":  "1.0.0.0",
-    "ReleaseNotes":  "8Store Patched for Re8StoreServer8 (v6.1.0.1)",
+    "ReleaseNotes":  "8Store Patched: Immediate GridView ItemsSource loaded fix",
     "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx"
 }
