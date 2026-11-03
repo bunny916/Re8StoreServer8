@@ -2,7 +2,7 @@
     "description":  "Core C++ runtime libraries required for running Windows 8.1 native C++ Modern applications.",
     "ratingsCount":  "120,000",
     "mainStars":  5,
-    "category":  "Utilities",
+    "category":  "Dependency",
     "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Microsoft.VCLibs.120.00_12.0.21005.1_x86__8wekyb3d8bbwe.png",
     "app_identity":  {
                          "publisher":  "Microsoft Platform Extensions",
