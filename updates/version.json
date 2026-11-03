@@ -1,7 +1,7 @@
 {
-    "LatestVersion":  "6.1.0.0",
+    "LatestVersion":  "6.1.0.1",
     "ForceUpdate":  false,
     "MinimumSupportedVersion":  "1.0.0.0",
-    "ReleaseNotes":  "8Store Patched for Re8StoreServer8",
+    "ReleaseNotes":  "8Store Patched for Re8StoreServer8 (v6.1.0.1)",
     "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx"
 }
