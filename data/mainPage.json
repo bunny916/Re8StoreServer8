@@ -1,4 +1,1105 @@
 {
+    "gateway_control":  {
+                            "version2.2u1":  true,
+                            "version3.0":  true,
+                            "version6.1":  true
+                        },
+    "staff_picks":  [
+                        {
+                            "id":  "asparion_metronome",
+                            "name":  "Asparion Metronome",
+                            "publisher":  "Asparion",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                            "category":  "Utilities",
+                            "rating":  5,
+                            "ratingCount":  16100,
+                            "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                            "packageFileName":  "asparion_metronome.appx"
+                        },
+                        {
+                            "id":  "asparion_xylophone",
+                            "name":  "Asparion Xylophone",
+                            "publisher":  "Asparion",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                            "category":  "Entertainment",
+                            "rating":  5,
+                            "ratingCount":  12400,
+                            "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                            "packageFileName":  "asparion_xylophone.appx"
+                        },
+                        {
+                            "id":  "auto_face_swap",
+                            "name":  "Auto Face Swap",
+                            "publisher":  "Stefan Neumueller",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                            "category":  "Photo \u0026 Creative",
+                            "rating":  4,
+                            "ratingCount":  31000,
+                            "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/auto_face_swap.json",
+                            "packageFileName":  "auto_face_swap.appx"
+                        },
+                        {
+                            "id":  "cowboy_horse_riding",
+                            "name":  "Cowboy Horse Riding",
+                            "publisher":  "GameStone Studio",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                            "category":  "Arcade",
+                            "rating":  4,
+                            "ratingCount":  17500,
+                            "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/cowboy_horse_riding.json",
+                            "packageFileName":  "cowboy_horse_riding.appx"
+                        },
+                        {
+                            "id":  "disney_solitaire",
+                            "name":  "Disney Classic Solitaire",
+                            "publisher":  "Disney",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                            "category":  "Games",
+                            "rating":  5,
+                            "ratingCount":  67000,
+                            "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                            "packageFileName":  "disney_solitaire.appx"
+                        },
+                        {
+                            "id":  "doveconviene",
+                            "name":  "DoveConviene Deals",
+                            "publisher":  "DoveConviene",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                            "category":  "Social",
+                            "rating":  4,
+                            "ratingCount":  23000,
+                            "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/doveconviene.json",
+                            "packageFileName":  "doveconviene.appx"
+                        },
+                        {
+                            "id":  "drawboard_pdf",
+                            "name":  "Drawboard PDF",
+                            "publisher":  "Drawboard",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                            "category":  "Productivity",
+                            "rating":  5,
+                            "ratingCount":  94000,
+                            "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                            "packageFileName":  "drawboard_pdf.appx"
+                        },
+                        {
+                            "id":  "ebay",
+                            "name":  "eBay for Windows 8",
+                            "publisher":  "eBay, Inc",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                            "category":  "Shopping",
+                            "rating":  4,
+                            "ratingCount":  210000,
+                            "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                            "packageFileName":  "ebay.appx"
+                        },
+                        {
+                            "id":  "falling_balls",
+                            "name":  "Falling Balls",
+                            "publisher":  "BIT-101",
+                            "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                            "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                            "category":  "Arcade",
+                            "rating":  5,
+                            "ratingCount":  14200,
+                            "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                            "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                            "packageFileName":  "falling_balls.appx"
+                        }
+                    ],
+    "staffPicks":  [
+                       {
+                           "id":  "asparion_metronome",
+                           "name":  "Asparion Metronome",
+                           "publisher":  "Asparion",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                           "category":  "Utilities",
+                           "rating":  5,
+                           "ratingCount":  16100,
+                           "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                           "packageFileName":  "asparion_metronome.appx"
+                       },
+                       {
+                           "id":  "asparion_xylophone",
+                           "name":  "Asparion Xylophone",
+                           "publisher":  "Asparion",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                           "category":  "Entertainment",
+                           "rating":  5,
+                           "ratingCount":  12400,
+                           "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                           "packageFileName":  "asparion_xylophone.appx"
+                       },
+                       {
+                           "id":  "auto_face_swap",
+                           "name":  "Auto Face Swap",
+                           "publisher":  "Stefan Neumueller",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                           "category":  "Photo \u0026 Creative",
+                           "rating":  4,
+                           "ratingCount":  31000,
+                           "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/auto_face_swap.json",
+                           "packageFileName":  "auto_face_swap.appx"
+                       },
+                       {
+                           "id":  "cowboy_horse_riding",
+                           "name":  "Cowboy Horse Riding",
+                           "publisher":  "GameStone Studio",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                           "category":  "Arcade",
+                           "rating":  4,
+                           "ratingCount":  17500,
+                           "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/cowboy_horse_riding.json",
+                           "packageFileName":  "cowboy_horse_riding.appx"
+                       },
+                       {
+                           "id":  "disney_solitaire",
+                           "name":  "Disney Classic Solitaire",
+                           "publisher":  "Disney",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                           "category":  "Games",
+                           "rating":  5,
+                           "ratingCount":  67000,
+                           "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                           "packageFileName":  "disney_solitaire.appx"
+                       },
+                       {
+                           "id":  "doveconviene",
+                           "name":  "DoveConviene Deals",
+                           "publisher":  "DoveConviene",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                           "category":  "Social",
+                           "rating":  4,
+                           "ratingCount":  23000,
+                           "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/doveconviene.json",
+                           "packageFileName":  "doveconviene.appx"
+                       },
+                       {
+                           "id":  "drawboard_pdf",
+                           "name":  "Drawboard PDF",
+                           "publisher":  "Drawboard",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                           "category":  "Productivity",
+                           "rating":  5,
+                           "ratingCount":  94000,
+                           "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                           "packageFileName":  "drawboard_pdf.appx"
+                       },
+                       {
+                           "id":  "ebay",
+                           "name":  "eBay for Windows 8",
+                           "publisher":  "eBay, Inc",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                           "category":  "Shopping",
+                           "rating":  4,
+                           "ratingCount":  210000,
+                           "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                           "packageFileName":  "ebay.appx"
+                       },
+                       {
+                           "id":  "falling_balls",
+                           "name":  "Falling Balls",
+                           "publisher":  "BIT-101",
+                           "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                           "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                           "category":  "Arcade",
+                           "rating":  5,
+                           "ratingCount":  14200,
+                           "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                           "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                           "packageFileName":  "falling_balls.appx"
+                       }
+                   ],
+    "special_picks":  [
+                          {
+                              "id":  "asparion_metronome",
+                              "name":  "Asparion Metronome",
+                              "publisher":  "Asparion",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                              "category":  "Utilities",
+                              "rating":  5,
+                              "ratingCount":  16100,
+                              "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                              "packageFileName":  "asparion_metronome.appx"
+                          },
+                          {
+                              "id":  "asparion_xylophone",
+                              "name":  "Asparion Xylophone",
+                              "publisher":  "Asparion",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                              "category":  "Entertainment",
+                              "rating":  5,
+                              "ratingCount":  12400,
+                              "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                              "packageFileName":  "asparion_xylophone.appx"
+                          },
+                          {
+                              "id":  "auto_face_swap",
+                              "name":  "Auto Face Swap",
+                              "publisher":  "Stefan Neumueller",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                              "category":  "Photo \u0026 Creative",
+                              "rating":  4,
+                              "ratingCount":  31000,
+                              "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/auto_face_swap.json",
+                              "packageFileName":  "auto_face_swap.appx"
+                          },
+                          {
+                              "id":  "cowboy_horse_riding",
+                              "name":  "Cowboy Horse Riding",
+                              "publisher":  "GameStone Studio",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                              "category":  "Arcade",
+                              "rating":  4,
+                              "ratingCount":  17500,
+                              "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/cowboy_horse_riding.json",
+                              "packageFileName":  "cowboy_horse_riding.appx"
+                          },
+                          {
+                              "id":  "disney_solitaire",
+                              "name":  "Disney Classic Solitaire",
+                              "publisher":  "Disney",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                              "category":  "Games",
+                              "rating":  5,
+                              "ratingCount":  67000,
+                              "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                              "packageFileName":  "disney_solitaire.appx"
+                          },
+                          {
+                              "id":  "doveconviene",
+                              "name":  "DoveConviene Deals",
+                              "publisher":  "DoveConviene",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                              "category":  "Social",
+                              "rating":  4,
+                              "ratingCount":  23000,
+                              "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/doveconviene.json",
+                              "packageFileName":  "doveconviene.appx"
+                          },
+                          {
+                              "id":  "drawboard_pdf",
+                              "name":  "Drawboard PDF",
+                              "publisher":  "Drawboard",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                              "category":  "Productivity",
+                              "rating":  5,
+                              "ratingCount":  94000,
+                              "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                              "packageFileName":  "drawboard_pdf.appx"
+                          },
+                          {
+                              "id":  "ebay",
+                              "name":  "eBay for Windows 8",
+                              "publisher":  "eBay, Inc",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                              "category":  "Shopping",
+                              "rating":  4,
+                              "ratingCount":  210000,
+                              "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                              "packageFileName":  "ebay.appx"
+                          },
+                          {
+                              "id":  "falling_balls",
+                              "name":  "Falling Balls",
+                              "publisher":  "BIT-101",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                              "category":  "Arcade",
+                              "rating":  5,
+                              "ratingCount":  14200,
+                              "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                              "packageFileName":  "falling_balls.appx"
+                          }
+                      ],
+    "specialPicks":  [
+                         {
+                             "id":  "asparion_metronome",
+                             "name":  "Asparion Metronome",
+                             "publisher":  "Asparion",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                             "category":  "Utilities",
+                             "rating":  5,
+                             "ratingCount":  16100,
+                             "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                             "packageFileName":  "asparion_metronome.appx"
+                         },
+                         {
+                             "id":  "asparion_xylophone",
+                             "name":  "Asparion Xylophone",
+                             "publisher":  "Asparion",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                             "category":  "Entertainment",
+                             "rating":  5,
+                             "ratingCount":  12400,
+                             "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                             "packageFileName":  "asparion_xylophone.appx"
+                         },
+                         {
+                             "id":  "auto_face_swap",
+                             "name":  "Auto Face Swap",
+                             "publisher":  "Stefan Neumueller",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                             "category":  "Photo \u0026 Creative",
+                             "rating":  4,
+                             "ratingCount":  31000,
+                             "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/auto_face_swap.json",
+                             "packageFileName":  "auto_face_swap.appx"
+                         },
+                         {
+                             "id":  "cowboy_horse_riding",
+                             "name":  "Cowboy Horse Riding",
+                             "publisher":  "GameStone Studio",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                             "category":  "Arcade",
+                             "rating":  4,
+                             "ratingCount":  17500,
+                             "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/cowboy_horse_riding.json",
+                             "packageFileName":  "cowboy_horse_riding.appx"
+                         },
+                         {
+                             "id":  "disney_solitaire",
+                             "name":  "Disney Classic Solitaire",
+                             "publisher":  "Disney",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                             "category":  "Games",
+                             "rating":  5,
+                             "ratingCount":  67000,
+                             "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                             "packageFileName":  "disney_solitaire.appx"
+                         },
+                         {
+                             "id":  "doveconviene",
+                             "name":  "DoveConviene Deals",
+                             "publisher":  "DoveConviene",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                             "category":  "Social",
+                             "rating":  4,
+                             "ratingCount":  23000,
+                             "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/doveconviene.json",
+                             "packageFileName":  "doveconviene.appx"
+                         },
+                         {
+                             "id":  "drawboard_pdf",
+                             "name":  "Drawboard PDF",
+                             "publisher":  "Drawboard",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                             "category":  "Productivity",
+                             "rating":  5,
+                             "ratingCount":  94000,
+                             "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                             "packageFileName":  "drawboard_pdf.appx"
+                         },
+                         {
+                             "id":  "ebay",
+                             "name":  "eBay for Windows 8",
+                             "publisher":  "eBay, Inc",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                             "category":  "Shopping",
+                             "rating":  4,
+                             "ratingCount":  210000,
+                             "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                             "packageFileName":  "ebay.appx"
+                         },
+                         {
+                             "id":  "falling_balls",
+                             "name":  "Falling Balls",
+                             "publisher":  "BIT-101",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                             "category":  "Arcade",
+                             "rating":  5,
+                             "ratingCount":  14200,
+                             "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                             "packageFileName":  "falling_balls.appx"
+                         }
+                     ],
+    "featured":  [
+                     {
+                         "id":  "asparion_metronome",
+                         "name":  "Asparion Metronome",
+                         "publisher":  "Asparion",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                         "category":  "Utilities",
+                         "rating":  5,
+                         "ratingCount":  16100,
+                         "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                         "packageFileName":  "asparion_metronome.appx"
+                     },
+                     {
+                         "id":  "asparion_xylophone",
+                         "name":  "Asparion Xylophone",
+                         "publisher":  "Asparion",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                         "category":  "Entertainment",
+                         "rating":  5,
+                         "ratingCount":  12400,
+                         "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                         "packageFileName":  "asparion_xylophone.appx"
+                     },
+                     {
+                         "id":  "disney_solitaire",
+                         "name":  "Disney Classic Solitaire",
+                         "publisher":  "Disney",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                         "category":  "Games",
+                         "rating":  5,
+                         "ratingCount":  67000,
+                         "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                         "packageFileName":  "disney_solitaire.appx"
+                     },
+                     {
+                         "id":  "drawboard_pdf",
+                         "name":  "Drawboard PDF",
+                         "publisher":  "Drawboard",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                         "category":  "Productivity",
+                         "rating":  5,
+                         "ratingCount":  94000,
+                         "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                         "packageFileName":  "drawboard_pdf.appx"
+                     },
+                     {
+                         "id":  "ebay",
+                         "name":  "eBay for Windows 8",
+                         "publisher":  "eBay, Inc",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                         "category":  "Shopping",
+                         "rating":  4,
+                         "ratingCount":  210000,
+                         "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                         "packageFileName":  "ebay.appx"
+                     },
+                     {
+                         "id":  "falling_balls",
+                         "name":  "Falling Balls",
+                         "publisher":  "BIT-101",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                         "category":  "Arcade",
+                         "rating":  5,
+                         "ratingCount":  14200,
+                         "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                         "packageFileName":  "falling_balls.appx"
+                     },
+                     {
+                         "id":  "game_studio_tycoon_3",
+                         "name":  "Game Studio Tycoon 3",
+                         "publisher":  "Michael Sherwin",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                         "category":  "Games",
+                         "rating":  5,
+                         "ratingCount":  34800,
+                         "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/game_studio_tycoon_3.json",
+                         "packageFileName":  "game_studio_tycoon_3.appx"
+                     },
+                     {
+                         "id":  "mahjong",
+                         "name":  "Microsoft Mahjong",
+                         "publisher":  "Microsoft Studios",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                         "category":  "Games",
+                         "rating":  5,
+                         "ratingCount":  142000,
+                         "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/mahjong.json",
+                         "packageFileName":  "mahjong.appx"
+                     },
+                     {
+                         "id":  "msn_news",
+                         "name":  "MSN News",
+                         "publisher":  "Microsoft Corporation",
+                         "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                         "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                         "category":  "MSN \u0026 Weather",
+                         "rating":  4,
+                         "ratingCount":  61000,
+                         "description":  "Top headlines and breaking stories from premier news sources around the world tailored to your topics.",
+                         "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/msn_news.json",
+                         "packageFileName":  "msn_news.appx"
+                     }
+                 ],
+    "featured_apps":  [
+                          {
+                              "id":  "asparion_metronome",
+                              "name":  "Asparion Metronome",
+                              "publisher":  "Asparion",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                              "category":  "Utilities",
+                              "rating":  5,
+                              "ratingCount":  16100,
+                              "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                              "packageFileName":  "asparion_metronome.appx"
+                          },
+                          {
+                              "id":  "asparion_xylophone",
+                              "name":  "Asparion Xylophone",
+                              "publisher":  "Asparion",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                              "category":  "Entertainment",
+                              "rating":  5,
+                              "ratingCount":  12400,
+                              "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                              "packageFileName":  "asparion_xylophone.appx"
+                          },
+                          {
+                              "id":  "disney_solitaire",
+                              "name":  "Disney Classic Solitaire",
+                              "publisher":  "Disney",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                              "category":  "Games",
+                              "rating":  5,
+                              "ratingCount":  67000,
+                              "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                              "packageFileName":  "disney_solitaire.appx"
+                          },
+                          {
+                              "id":  "drawboard_pdf",
+                              "name":  "Drawboard PDF",
+                              "publisher":  "Drawboard",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                              "category":  "Productivity",
+                              "rating":  5,
+                              "ratingCount":  94000,
+                              "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                              "packageFileName":  "drawboard_pdf.appx"
+                          },
+                          {
+                              "id":  "ebay",
+                              "name":  "eBay for Windows 8",
+                              "publisher":  "eBay, Inc",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                              "category":  "Shopping",
+                              "rating":  4,
+                              "ratingCount":  210000,
+                              "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                              "packageFileName":  "ebay.appx"
+                          },
+                          {
+                              "id":  "falling_balls",
+                              "name":  "Falling Balls",
+                              "publisher":  "BIT-101",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                              "category":  "Arcade",
+                              "rating":  5,
+                              "ratingCount":  14200,
+                              "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                              "packageFileName":  "falling_balls.appx"
+                          },
+                          {
+                              "id":  "game_studio_tycoon_3",
+                              "name":  "Game Studio Tycoon 3",
+                              "publisher":  "Michael Sherwin",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                              "category":  "Games",
+                              "rating":  5,
+                              "ratingCount":  34800,
+                              "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/game_studio_tycoon_3.json",
+                              "packageFileName":  "game_studio_tycoon_3.appx"
+                          },
+                          {
+                              "id":  "mahjong",
+                              "name":  "Microsoft Mahjong",
+                              "publisher":  "Microsoft Studios",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                              "category":  "Games",
+                              "rating":  5,
+                              "ratingCount":  142000,
+                              "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/mahjong.json",
+                              "packageFileName":  "mahjong.appx"
+                          },
+                          {
+                              "id":  "msn_news",
+                              "name":  "MSN News",
+                              "publisher":  "Microsoft Corporation",
+                              "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                              "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                              "category":  "MSN \u0026 Weather",
+                              "rating":  4,
+                              "ratingCount":  61000,
+                              "description":  "Top headlines and breaking stories from premier news sources around the world tailored to your topics.",
+                              "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/msn_news.json",
+                              "packageFileName":  "msn_news.appx"
+                          }
+                      ],
+    "featuredApps":  [
+                         {
+                             "id":  "asparion_metronome",
+                             "name":  "Asparion Metronome",
+                             "publisher":  "Asparion",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                             "category":  "Utilities",
+                             "rating":  5,
+                             "ratingCount":  16100,
+                             "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_metronome.json",
+                             "packageFileName":  "asparion_metronome.appx"
+                         },
+                         {
+                             "id":  "asparion_xylophone",
+                             "name":  "Asparion Xylophone",
+                             "publisher":  "Asparion",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                             "category":  "Entertainment",
+                             "rating":  5,
+                             "ratingCount":  12400,
+                             "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/asparion_xylophone.json",
+                             "packageFileName":  "asparion_xylophone.appx"
+                         },
+                         {
+                             "id":  "disney_solitaire",
+                             "name":  "Disney Classic Solitaire",
+                             "publisher":  "Disney",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                             "category":  "Games",
+                             "rating":  5,
+                             "ratingCount":  67000,
+                             "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/disney_solitaire.json",
+                             "packageFileName":  "disney_solitaire.appx"
+                         },
+                         {
+                             "id":  "drawboard_pdf",
+                             "name":  "Drawboard PDF",
+                             "publisher":  "Drawboard",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                             "category":  "Productivity",
+                             "rating":  5,
+                             "ratingCount":  94000,
+                             "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/drawboard_pdf.json",
+                             "packageFileName":  "drawboard_pdf.appx"
+                         },
+                         {
+                             "id":  "ebay",
+                             "name":  "eBay for Windows 8",
+                             "publisher":  "eBay, Inc",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                             "category":  "Shopping",
+                             "rating":  4,
+                             "ratingCount":  210000,
+                             "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/ebay.json",
+                             "packageFileName":  "ebay.appx"
+                         },
+                         {
+                             "id":  "falling_balls",
+                             "name":  "Falling Balls",
+                             "publisher":  "BIT-101",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                             "category":  "Arcade",
+                             "rating":  5,
+                             "ratingCount":  14200,
+                             "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/falling_balls.json",
+                             "packageFileName":  "falling_balls.appx"
+                         },
+                         {
+                             "id":  "game_studio_tycoon_3",
+                             "name":  "Game Studio Tycoon 3",
+                             "publisher":  "Michael Sherwin",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                             "category":  "Games",
+                             "rating":  5,
+                             "ratingCount":  34800,
+                             "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/game_studio_tycoon_3.json",
+                             "packageFileName":  "game_studio_tycoon_3.appx"
+                         },
+                         {
+                             "id":  "mahjong",
+                             "name":  "Microsoft Mahjong",
+                             "publisher":  "Microsoft Studios",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                             "category":  "Games",
+                             "rating":  5,
+                             "ratingCount":  142000,
+                             "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/mahjong.json",
+                             "packageFileName":  "mahjong.appx"
+                         },
+                         {
+                             "id":  "msn_news",
+                             "name":  "MSN News",
+                             "publisher":  "Microsoft Corporation",
+                             "icon":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                             "banner":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                             "category":  "MSN \u0026 Weather",
+                             "rating":  4,
+                             "ratingCount":  61000,
+                             "description":  "Top headlines and breaking stories from premier news sources around the world tailored to your topics.",
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/msn_news.json",
+                             "packageFileName":  "msn_news.appx"
+                         }
+                     ],
+    "collections":  [
+                        {
+                            "name":  "Social",
+                            "displayName":  "Social",
+                            "key":  "CollectionCategory_Social",
+                            "appCount":  3,
+                            "icons":  [
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                                      ],
+                            "apps":  [
+                                         "skype",
+                                         "doveconviene",
+                                         "woopiti"
+                                     ]
+                        },
+                        {
+                            "name":  "Arcade",
+                            "displayName":  "Arcade",
+                            "key":  "CollectionCategory_Arcade",
+                            "appCount":  5,
+                            "icons":  [
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/logo_quiz.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png"
+                                      ],
+                            "apps":  [
+                                         "falling_balls",
+                                         "logo_quiz",
+                                         "number_place",
+                                         "cowboy_horse_riding"
+                                     ]
+                        },
+                        {
+                            "name":  "New \u0026 Rising",
+                            "displayName":  "New \u0026 Rising",
+                            "key":  "CollectionCategory_NewRising",
+                            "appCount":  4,
+                            "icons":  [
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/the_weather_channel.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png"
+                                      ],
+                            "apps":  [
+                                         "game_studio_tycoon_3",
+                                         "the_weather_channel",
+                                         "drawboard_pdf",
+                                         "asparion_metronome"
+                                     ]
+                        },
+                        {
+                            "name":  "Games",
+                            "displayName":  "Games",
+                            "key":  "CollectionCategory_Games",
+                            "appCount":  5,
+                            "icons":  [
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                                          "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png"
+                                      ],
+                            "apps":  [
+                                         "game_studio_tycoon_3",
+                                         "mahjong",
+                                         "solitaire_collection",
+                                         "disney_solitaire",
+                                         "fishing_joy"
+                                     ]
+                        }
+                    ],
+    "spotlight_collections":  [
+                                  {
+                                      "name":  "Social",
+                                      "displayName":  "Social",
+                                      "key":  "CollectionCategory_Social",
+                                      "appCount":  3,
+                                      "icons":  [
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                                                ],
+                                      "apps":  [
+                                                   "skype",
+                                                   "doveconviene",
+                                                   "woopiti"
+                                               ]
+                                  },
+                                  {
+                                      "name":  "Arcade",
+                                      "displayName":  "Arcade",
+                                      "key":  "CollectionCategory_Arcade",
+                                      "appCount":  5,
+                                      "icons":  [
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/logo_quiz.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png"
+                                                ],
+                                      "apps":  [
+                                                   "falling_balls",
+                                                   "logo_quiz",
+                                                   "number_place",
+                                                   "cowboy_horse_riding"
+                                               ]
+                                  },
+                                  {
+                                      "name":  "New \u0026 Rising",
+                                      "displayName":  "New \u0026 Rising",
+                                      "key":  "CollectionCategory_NewRising",
+                                      "appCount":  4,
+                                      "icons":  [
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/the_weather_channel.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png"
+                                                ],
+                                      "apps":  [
+                                                   "game_studio_tycoon_3",
+                                                   "the_weather_channel",
+                                                   "drawboard_pdf",
+                                                   "asparion_metronome"
+                                               ]
+                                  },
+                                  {
+                                      "name":  "Games",
+                                      "displayName":  "Games",
+                                      "key":  "CollectionCategory_Games",
+                                      "appCount":  5,
+                                      "icons":  [
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                                                    "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png"
+                                                ],
+                                      "apps":  [
+                                                   "game_studio_tycoon_3",
+                                                   "mahjong",
+                                                   "solitaire_collection",
+                                                   "disney_solitaire",
+                                                   "fishing_joy"
+                                               ]
+                                  }
+                              ],
+    "spotlightCollections":  [
+                                 {
+                                     "name":  "Social",
+                                     "displayName":  "Social",
+                                     "key":  "CollectionCategory_Social",
+                                     "appCount":  3,
+                                     "icons":  [
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                                               ],
+                                     "apps":  [
+                                                  "skype",
+                                                  "doveconviene",
+                                                  "woopiti"
+                                              ]
+                                 },
+                                 {
+                                     "name":  "Arcade",
+                                     "displayName":  "Arcade",
+                                     "key":  "CollectionCategory_Arcade",
+                                     "appCount":  5,
+                                     "icons":  [
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/logo_quiz.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png"
+                                               ],
+                                     "apps":  [
+                                                  "falling_balls",
+                                                  "logo_quiz",
+                                                  "number_place",
+                                                  "cowboy_horse_riding"
+                                              ]
+                                 },
+                                 {
+                                     "name":  "New \u0026 Rising",
+                                     "displayName":  "New \u0026 Rising",
+                                     "key":  "CollectionCategory_NewRising",
+                                     "appCount":  4,
+                                     "icons":  [
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/the_weather_channel.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png"
+                                               ],
+                                     "apps":  [
+                                                  "game_studio_tycoon_3",
+                                                  "the_weather_channel",
+                                                  "drawboard_pdf",
+                                                  "asparion_metronome"
+                                              ]
+                                 },
+                                 {
+                                     "name":  "Games",
+                                     "displayName":  "Games",
+                                     "key":  "CollectionCategory_Games",
+                                     "appCount":  5,
+                                     "icons":  [
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                                                   "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png"
+                                               ],
+                                     "apps":  [
+                                                  "game_studio_tycoon_3",
+                                                  "mahjong",
+                                                  "solitaire_collection",
+                                                  "disney_solitaire",
+                                                  "fishing_joy"
+                                              ]
+                                 }
+                             ],
+    "spotlight":  [
+                      {
+                          "id":  "game_studio_tycoon_3",
+                          "title":  "Game Studio Tycoon 3",
+                          "description":  "Build your game empire and develop groundbreaking hit games!",
+                          "bannerUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                          "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                      },
+                      {
+                          "id":  "skype",
+                          "title":  "Skype",
+                          "description":  "Stay connected with free video calls, voice, and instant messaging.",
+                          "bannerUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+                          "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                      },
+                      {
+                          "id":  "mahjong",
+                          "title":  "Microsoft Mahjong",
+                          "description":  "The classic tile-matching game updated with beautiful themes and daily challenges.",
+                          "bannerUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                          "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                      }
+                  ],
+    "popular_games":  [
+                          "game_studio_tycoon_3",
+                          "mahjong",
+                          "solitaire_collection",
+                          "disney_solitaire",
+                          "falling_balls",
+                          "fishing_joy",
+                          "logo_quiz"
+                      ],
+    "utilities":  [
+                      "skype",
+                      "the_weather_channel",
+                      "drawboard_pdf",
+                      "msn_news",
+                      "asparion_metronome",
+                      "asparion_xylophone",
+                      "ebay"
+                  ],
     "rework_core_system":  {
                                "gateway_control":  {
                                                        "version2.2u1":  true,
@@ -8,125 +1109,64 @@
                                "content_registry":  {
                                                         "deployment_groups":  {
                                                                                   "popular_games":  {
+                                                                                                        "title":  "Popular Games",
                                                                                                         "payload":  [
-                                                                                                                        "falling_balls",
-                                                                                                                        "number_place",
                                                                                                                         "game_studio_tycoon_3",
-                                                                                                                        "guess_the_celeb",
-                                                                                                                        "logo_quiz",
-                                                                                                                        "cowboy_horse_riding",
                                                                                                                         "mahjong",
                                                                                                                         "solitaire_collection",
-                                                                                                                        "fishing_joy",
-                                                                                                                        "disney_solitaire"
-                                                                                                                    ],
-                                                                                                        "title":  "Popular Games"
+                                                                                                                        "disney_solitaire",
+                                                                                                                        "falling_balls",
+                                                                                                                        "fishing_joy"
+                                                                                                                    ]
                                                                                                     },
                                                                                   "utilities_suite":  {
+                                                                                                          "title":  "Essential Utilities \u0026 Apps",
                                                                                                           "payload":  [
-                                                                                                                          "memory_exercise",
-                                                                                                                          "pictup",
-                                                                                                                          "asparion_xylophone",
-                                                                                                                          "asparion_metronome",
-                                                                                                                          "woopiti",
-                                                                                                                          "gestione_password",
-                                                                                                                          "auto_face_swap",
-                                                                                                                          "ebay",
                                                                                                                           "skype",
                                                                                                                           "the_weather_channel",
-                                                                                                                          "kindle",
-                                                                                                                          "doveconviene",
                                                                                                                           "drawboard_pdf",
                                                                                                                           "msn_news",
-                                                                                                                          "playready",
-                                                                                                                          "vclibs_110",
-                                                                                                                          "vclibs_120",
-                                                                                                                          "winjs_preview",
-                                                                                                                          "winjs_2_0"
-                                                                                                                      ],
-                                                                                                          "title":  "Essential Utilities \u0026 Apps"
+                                                                                                                          "asparion_metronome",
+                                                                                                                          "asparion_xylophone"
+                                                                                                                      ]
                                                                                                       },
                                                                                   "rework_picks":  {
+                                                                                                       "title":  "Staff Picks",
                                                                                                        "payload":  [
-                                                                                                                       "falling_balls",
-                                                                                                                       "game_studio_tycoon_3",
-                                                                                                                       "logo_quiz",
-                                                                                                                       "ebay",
-                                                                                                                       "skype",
-                                                                                                                       "mahjong",
-                                                                                                                       "solitaire_collection",
-                                                                                                                       "the_weather_channel",
-                                                                                                                       "fishing_joy",
+                                                                                                                       "asparion_metronome",
+                                                                                                                       "asparion_xylophone",
+                                                                                                                       "auto_face_swap",
+                                                                                                                       "cowboy_horse_riding",
                                                                                                                        "disney_solitaire",
+                                                                                                                       "doveconviene",
                                                                                                                        "drawboard_pdf",
-                                                                                                                       "msn_news"
-                                                                                                                   ],
-                                                                                                       "title":  "Featured Staff Picks"
-                                                                                                   }
-                                                                              },
-                                                        "spotlight":  {
-                                                                          "payload":  [
-                                                                                          {
-                                                                                              "label":  "game_studio_tycoon_3",
-                                                                                              "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
-                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
-                                                                                          },
-                                                                                          {
-                                                                                              "label":  "skype",
-                                                                                              "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
-                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
-                                                                                          },
-                                                                                          {
-                                                                                              "label":  "mahjong",
-                                                                                              "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
-                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
-                                                                                          },
-                                                                                          {
-                                                                                              "label":  "solitaire_collection",
-                                                                                              "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
-                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png"
-                                                                                          },
-                                                                                          {
-                                                                                              "label":  "disney_solitaire",
-                                                                                              "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
-                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png"
-                                                                                          }
-                                                                                      ]
-                                                                      },
-                                                        "live_tile_feed":  {
-                                                                               "payload":  [
-                                                                                               {
-                                                                                                   "label":  "game_studio_tycoon_3",
-                                                                                                   "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
-                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
-                                                                                               },
-                                                                                               {
-                                                                                                   "label":  "skype",
-                                                                                                   "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
-                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
-                                                                                               },
-                                                                                               {
-                                                                                                   "label":  "mahjong",
-                                                                                                   "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
-                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
-                                                                                               },
-                                                                                               {
-                                                                                                   "label":  "solitaire_collection",
-                                                                                                   "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
-                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png"
-                                                                                               },
-                                                                                               {
-                                                                                                   "label":  "disney_solitaire",
-                                                                                                   "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
-                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png"
-                                                                                               }
-                                                                                           ]
-                                                                           }
-                                                    },
-                               "toast_notification":  {
-                                                          "title":  "Re8Store",
-                                                          "ShowToast":  false,
-                                                          "message":  "Welcome to your personal Re8Store server!"
-                                                      }
+                                                                                                                       "ebay",
+                                                                                                                       "falling_balls"
+                                                                                                                   ]
+                                                                                                   },
+                                                                                  "featured_applications":  {
+                                                                                                                "title":  "Featured",
+                                                                                                                "payload":  [
+                                                                                                                                "asparion_metronome",
+                                                                                                                                "asparion_xylophone",
+                                                                                                                                "disney_solitaire",
+                                                                                                                                "drawboard_pdf",
+                                                                                                                                "ebay",
+                                                                                                                                "falling_balls",
+                                                                                                                                "game_studio_tycoon_3",
+                                                                                                                                "mahjong",
+                                                                                                                                "msn_news"
+                                                                                                                            ]
+                                                                                                            },
+                                                                                  "spotlight_showcase":  {
+                                                                                                             "title":  "Spotlight",
+                                                                                                             "payload":  [
+                                                                                                                             "game_studio_tycoon_3",
+                                                                                                                             "skype",
+                                                                                                                             "mahjong"
+                                                                                                                         ]
+                                                                                                         }
+                                                                              }
+                                                    }
                            }
 }
