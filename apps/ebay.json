@@ -1,0 +1,19 @@
+{
+    "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+    "ratingsCount":  "210,000",
+    "mainStars":  4,
+    "category":  "Shopping",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+    "app_identity":  {
+                         "publisher":  "eBay, Inc",
+                         "description":  "Buy, bid, and sell on the world\u0027s premier online marketplace directly with smooth Windows 8 live notifications.",
+                         "displayname":  "eBay for Windows 8"
+                     },
+    "deployment":  {
+                       "filesize":  "2.04 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip",
+    "displayname":  "eBay for Windows 8"
+}

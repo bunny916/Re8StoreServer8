@@ -1,0 +1,19 @@
+{
+    "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+    "ratingsCount":  "16,100",
+    "mainStars":  5,
+    "category":  "Utilities",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+    "app_identity":  {
+                         "publisher":  "Asparion",
+                         "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                         "displayname":  "Asparion Metronome"
+                     },
+    "deployment":  {
+                       "filesize":  "9.27 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12199Asparion.Metronom_3.0.4.0_x86__f89vgcf3qm37t.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12199Asparion.Metronom_3.0.4.0_x86__f89vgcf3qm37t.appx",
+    "displayname":  "Asparion Metronome"
+}

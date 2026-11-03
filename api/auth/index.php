@@ -1,0 +1,1 @@
+{"status":"success","message":"Authenticated","user":{"id":"re8_user_01","username":"StoreUser","email":"user@re8store.local"}}

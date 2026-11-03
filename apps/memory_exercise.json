@@ -1,0 +1,19 @@
+{
+    "description":  "Boost your memory and cognitive skills with brain training puzzles and pattern matching drills.",
+    "ratingsCount":  "8,900",
+    "mainStars":  4,
+    "category":  "Utilities",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/memory_exercise.png",
+    "app_identity":  {
+                         "publisher":  "Zurc Software",
+                         "description":  "Boost your memory and cognitive skills with brain training puzzles and pattern matching drills.",
+                         "displayname":  "Memory Exercise"
+                     },
+    "deployment":  {
+                       "filesize":  "9.07 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/memory_exercise.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_10896ZurcSoftware.MemoryExercise_1.0.0.0_neutral__k69xbre34sde6.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_10896ZurcSoftware.MemoryExercise_1.0.0.0_neutral__k69xbre34sde6.appx",
+    "displayname":  "Memory Exercise"
+}

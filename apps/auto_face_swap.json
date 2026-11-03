@@ -1,0 +1,19 @@
+{
+    "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+    "ratingsCount":  "31,000",
+    "mainStars":  4,
+    "category":  "Photo \u0026 Creative",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+    "app_identity":  {
+                         "publisher":  "Stefan Neumueller",
+                         "description":  "Automatic face detection and swap camera effect. Seamlessly switch faces with friends in real-time photos.",
+                         "displayname":  "Auto Face Swap"
+                     },
+    "deployment":  {
+                       "filesize":  "146.74 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/auto_face_swap.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_25455sneumueller.autofaceswap_2017.717.1920.0_neutral_~_2zya3srgbybp4.AppxBundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_25455sneumueller.autofaceswap_2017.717.1920.0_neutral_~_2zya3srgbybp4.AppxBundle",
+    "displayname":  "Auto Face Swap"
+}

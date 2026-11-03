@@ -1,0 +1,19 @@
+{
+    "description":  "Deep sea arcade fishing! Fire laser nets, catch exotic marine creatures, and hunt giant sunken treasures.",
+    "ratingsCount":  "48,000",
+    "mainStars":  5,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png",
+    "app_identity":  {
+                         "publisher":  "LENOVO INC",
+                         "description":  "Deep sea arcade fishing! Fire laser nets, catch exotic marine creatures, and hunt giant sunken treasures.",
+                         "displayname":  "Fishing Joy"
+                     },
+    "deployment":  {
+                       "filesize":  "41.14 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_E0469640.FishingJoy_1.0.0.3_x86__5grkq8ppsgwt4.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_E0469640.FishingJoy_1.0.0.3_x86__5grkq8ppsgwt4.appx",
+    "displayname":  "Fishing Joy"
+}

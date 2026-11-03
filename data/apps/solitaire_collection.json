@@ -1,0 +1,19 @@
+{
+    "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
+    "ratingsCount":  "320,000",
+    "mainStars":  5,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Studios",
+                         "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
+                         "displayname":  "Microsoft Solitaire Collection"
+                     },
+    "deployment":  {
+                       "filesize":  "75.56 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.zip"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.zip",
+    "displayname":  "Microsoft Solitaire Collection"
+}

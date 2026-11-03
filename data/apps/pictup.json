@@ -1,0 +1,19 @@
+{
+    "description":  "Fast, touch-optimized photo and gallery viewer with high resolution zoom and slide show modes.",
+    "ratingsCount":  "5,600",
+    "mainStars":  4,
+    "category":  "Photo \u0026 Creative",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/pictup.png",
+    "app_identity":  {
+                         "publisher":  "TW Studios",
+                         "description":  "Fast, touch-optimized photo and gallery viewer with high resolution zoom and slide show modes.",
+                         "displayname":  "Pict\u0027Up Photo Viewer"
+                     },
+    "deployment":  {
+                       "filesize":  "6.99 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/pictup.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_11993TWStudios.PictUp_2014.320.836.5949_neutral_~_c1gs7vknztny4.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_11993TWStudios.PictUp_2014.320.836.5949_neutral_~_c1gs7vknztny4.appxbundle",
+    "displayname":  "Pict\u0027Up Photo Viewer"
+}

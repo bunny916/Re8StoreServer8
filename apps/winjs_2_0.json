@@ -1,0 +1,19 @@
+{
+    "description":  "Official Windows Library for JavaScript UI rendering engine for modern Windows 8.1 apps.",
+    "ratingsCount":  "620,000",
+    "mainStars":  5,
+    "category":  "Framework \u0026 Dependencies",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/winjs_2_0.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Official Windows Library for JavaScript UI rendering engine for modern Windows 8.1 apps.",
+                         "displayname":  "Microsoft WinJS 2.0 Framework"
+                     },
+    "deployment":  {
+                       "filesize":  "0.95 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/winjs_2_0.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.Appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.Appx",
+    "displayname":  "Microsoft WinJS 2.0 Framework"
+}

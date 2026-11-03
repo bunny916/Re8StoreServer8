@@ -1,0 +1,19 @@
+{
+    "description":  "Destination guides, 360-degree panoramic photos, flight status trackers, and hotel recommendations.",
+    "ratingsCount":  "42,000",
+    "mainStars":  5,
+    "category":  "Travel",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Travel_Retiled.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Destination guides, 360-degree panoramic photos, flight status trackers, and hotel recommendations.",
+                         "displayname":  "MSN Travel"
+                     },
+    "deployment":  {
+                       "filesize":  "30.7 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Travel_Retiled.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Travel_Retiled.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Travel_Retiled.appx",
+    "displayname":  "MSN Travel"
+}

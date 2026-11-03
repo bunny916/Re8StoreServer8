@@ -1,0 +1,33 @@
+{
+    "apps":  [
+                 "falling_balls",
+                 "memory_exercise",
+                 "number_place",
+                 "pictup",
+                 "asparion_xylophone",
+                 "asparion_metronome",
+                 "game_studio_tycoon_3",
+                 "woopiti",
+                 "guess_the_celeb",
+                 "logo_quiz",
+                 "cowboy_horse_riding",
+                 "gestione_password",
+                 "auto_face_swap",
+                 "ebay",
+                 "skype",
+                 "mahjong",
+                 "solitaire_collection",
+                 "the_weather_channel",
+                 "fishing_joy",
+                 "kindle",
+                 "disney_solitaire",
+                 "doveconviene",
+                 "drawboard_pdf",
+                 "msn_news",
+                 "playready",
+                 "vclibs_110",
+                 "vclibs_120",
+                 "winjs_preview",
+                 "winjs_2_0"
+             ]
+}

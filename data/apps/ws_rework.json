@@ -1,0 +1,19 @@
+{
+    "description":  "Windows 8.1 Modern Store restoration project providing direct archive access and sideloading.",
+    "ratingsCount":  "18,000",
+    "mainStars":  5,
+    "category":  "Store Revival",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Project_WS_Rework.png",
+    "app_identity":  {
+                         "publisher":  "w_8.1 and ReOp3n",
+                         "description":  "Windows 8.1 Modern Store restoration project providing direct archive access and sideloading.",
+                         "displayname":  "Project WS-Rework"
+                     },
+    "deployment":  {
+                       "filesize":  "1.09 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Project_WS_Rework.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/Project_WS_Rework.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/Project_WS_Rework.appx",
+    "displayname":  "Project WS-Rework"
+}

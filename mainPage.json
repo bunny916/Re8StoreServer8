@@ -1,0 +1,132 @@
+{
+    "rework_core_system":  {
+                               "gateway_control":  {
+                                                       "version2.2u1":  true,
+                                                       "version3.0":  true,
+                                                       "version6.1":  true
+                                                   },
+                               "content_registry":  {
+                                                        "deployment_groups":  {
+                                                                                  "popular_games":  {
+                                                                                                        "payload":  [
+                                                                                                                        "falling_balls",
+                                                                                                                        "number_place",
+                                                                                                                        "game_studio_tycoon_3",
+                                                                                                                        "guess_the_celeb",
+                                                                                                                        "logo_quiz",
+                                                                                                                        "cowboy_horse_riding",
+                                                                                                                        "mahjong",
+                                                                                                                        "solitaire_collection",
+                                                                                                                        "fishing_joy",
+                                                                                                                        "disney_solitaire"
+                                                                                                                    ],
+                                                                                                        "title":  "Popular Games"
+                                                                                                    },
+                                                                                  "utilities_suite":  {
+                                                                                                          "payload":  [
+                                                                                                                          "memory_exercise",
+                                                                                                                          "pictup",
+                                                                                                                          "asparion_xylophone",
+                                                                                                                          "asparion_metronome",
+                                                                                                                          "woopiti",
+                                                                                                                          "gestione_password",
+                                                                                                                          "auto_face_swap",
+                                                                                                                          "ebay",
+                                                                                                                          "skype",
+                                                                                                                          "the_weather_channel",
+                                                                                                                          "kindle",
+                                                                                                                          "doveconviene",
+                                                                                                                          "drawboard_pdf",
+                                                                                                                          "msn_news",
+                                                                                                                          "playready",
+                                                                                                                          "vclibs_110",
+                                                                                                                          "vclibs_120",
+                                                                                                                          "winjs_preview",
+                                                                                                                          "winjs_2_0"
+                                                                                                                      ],
+                                                                                                          "title":  "Essential Utilities \u0026 Apps"
+                                                                                                      },
+                                                                                  "rework_picks":  {
+                                                                                                       "payload":  [
+                                                                                                                       "falling_balls",
+                                                                                                                       "game_studio_tycoon_3",
+                                                                                                                       "logo_quiz",
+                                                                                                                       "ebay",
+                                                                                                                       "skype",
+                                                                                                                       "mahjong",
+                                                                                                                       "solitaire_collection",
+                                                                                                                       "the_weather_channel",
+                                                                                                                       "fishing_joy",
+                                                                                                                       "disney_solitaire",
+                                                                                                                       "drawboard_pdf",
+                                                                                                                       "msn_news"
+                                                                                                                   ],
+                                                                                                       "title":  "Featured Staff Picks"
+                                                                                                   }
+                                                                              },
+                                                        "spotlight":  {
+                                                                          "payload":  [
+                                                                                          {
+                                                                                              "label":  "game_studio_tycoon_3",
+                                                                                              "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                                                                                          },
+                                                                                          {
+                                                                                              "label":  "skype",
+                                                                                              "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                                                                                          },
+                                                                                          {
+                                                                                              "label":  "mahjong",
+                                                                                              "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                                                                                          },
+                                                                                          {
+                                                                                              "label":  "solitaire_collection",
+                                                                                              "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png"
+                                                                                          },
+                                                                                          {
+                                                                                              "label":  "disney_solitaire",
+                                                                                              "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                                                                                              "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png"
+                                                                                          }
+                                                                                      ]
+                                                                      },
+                                                        "live_tile_feed":  {
+                                                                               "payload":  [
+                                                                                               {
+                                                                                                   "label":  "game_studio_tycoon_3",
+                                                                                                   "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                                                                                               },
+                                                                                               {
+                                                                                                   "label":  "skype",
+                                                                                                   "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                                                                                               },
+                                                                                               {
+                                                                                                   "label":  "mahjong",
+                                                                                                   "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                                                                                               },
+                                                                                               {
+                                                                                                   "label":  "solitaire_collection",
+                                                                                                   "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png"
+                                                                                               },
+                                                                                               {
+                                                                                                   "label":  "disney_solitaire",
+                                                                                                   "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                                                                                                   "image_url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png"
+                                                                                               }
+                                                                                           ]
+                                                                           }
+                                                    },
+                               "toast_notification":  {
+                                                          "title":  "Re8Store",
+                                                          "ShowToast":  false,
+                                                          "message":  "Welcome to your personal Re8Store server!"
+                                                      }
+                           }
+}

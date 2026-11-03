@@ -1,0 +1,19 @@
+{
+    "description":  "Core native C++ execution libraries required by modern Windows 8.1 Store games and applications.",
+    "ratingsCount":  "850,000",
+    "mainStars":  5,
+    "category":  "Framework \u0026 Dependencies",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/vclibs_110.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Core native C++ execution libraries required by modern Windows 8.1 Store games and applications.",
+                         "displayname":  "Microsoft Visual C++ 11.0 Runtime"
+                     },
+    "deployment":  {
+                       "filesize":  "2.6 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/vclibs_110.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.Appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.Appx",
+    "displayname":  "Microsoft Visual C++ 11.0 Runtime"
+}

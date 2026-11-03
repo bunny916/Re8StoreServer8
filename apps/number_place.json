@@ -1,0 +1,19 @@
+{
+    "description":  "Classic Japanese Number Place Sudoku puzzle with hundreds of grids from beginner to expert.",
+    "ratingsCount":  "21,000",
+    "mainStars":  4,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+    "app_identity":  {
+                         "publisher":  "SHIGEZO",
+                         "description":  "Classic Japanese Number Place Sudoku puzzle with hundreds of grids from beginner to expert.",
+                         "displayname":  "Number Place Puzzle"
+                     },
+    "deployment":  {
+                       "filesize":  "10.83 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_11254SHIGEZO.5188824A60F8F_2017.409.630.0_neutral_~_jzaxj9pp73jrj.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_11254SHIGEZO.5188824A60F8F_2017.409.630.0_neutral_~_jzaxj9pp73jrj.appxbundle",
+    "displayname":  "Number Place Puzzle"
+}

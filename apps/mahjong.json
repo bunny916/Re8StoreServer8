@@ -1,0 +1,19 @@
+{
+    "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+    "ratingsCount":  "142,000",
+    "mainStars":  5,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Studios",
+                         "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                         "displayname":  "Microsoft Mahjong"
+                     },
+    "deployment":  {
+                       "filesize":  "128.03 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe.zip"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe.zip",
+    "displayname":  "Microsoft Mahjong"
+}

@@ -1,0 +1,19 @@
+{
+    "description":  "Live scores, schedules, standings, game recaps, and breaking sports news for global leagues.",
+    "ratingsCount":  "54,000",
+    "mainStars":  4,
+    "category":  "Sports",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Sports_Retiled.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Live scores, schedules, standings, game recaps, and breaking sports news for global leagues.",
+                         "displayname":  "MSN Sports"
+                     },
+    "deployment":  {
+                       "filesize":  "12.38 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Sports_Retiled.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Sports_Retiled.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Sports_Retiled.appx",
+    "displayname":  "MSN Sports"
+}

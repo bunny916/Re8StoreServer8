@@ -1,0 +1,19 @@
+{
+    "description":  "Official Re8Store client by Ibrahim. Browse, download, and install real Windows 8.1 AppX packages.",
+    "ratingsCount":  "25,000",
+    "mainStars":  5,
+    "category":  "Store Revival",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Re8Store_Upgrade_v1.7.png",
+    "app_identity":  {
+                         "publisher":  "Ibrahim",
+                         "description":  "Official Re8Store client by Ibrahim. Browse, download, and install real Windows 8.1 AppX packages.",
+                         "displayname":  "Re8Store Platform"
+                     },
+    "deployment":  {
+                       "filesize":  "0.95 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Re8Store_Upgrade_v1.7.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/Re8Store_Upgrade_v1.7.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/Re8Store_Upgrade_v1.7.appx",
+    "displayname":  "Re8Store Platform"
+}

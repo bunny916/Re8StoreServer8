@@ -1,0 +1,19 @@
+{
+    "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+    "ratingsCount":  "94,000",
+    "mainStars":  5,
+    "category":  "Productivity",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+    "app_identity":  {
+                         "publisher":  "Drawboard",
+                         "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                         "displayname":  "Drawboard PDF"
+                     },
+    "deployment":  {
+                       "filesize":  "33.03 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Drawboard.DrawboardPDF_2015.1001.648.0_neutral_~_gqbn7fs4pywxm.AppxBundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Drawboard.DrawboardPDF_2015.1001.648.0_neutral_~_gqbn7fs4pywxm.AppxBundle",
+    "displayname":  "Drawboard PDF"
+}

@@ -1,0 +1,19 @@
+{
+    "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+    "ratingsCount":  "34,800",
+    "mainStars":  5,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+    "app_identity":  {
+                         "publisher":  "Michael Sherwin",
+                         "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                         "displayname":  "Game Studio Tycoon 3"
+                     },
+    "deployment":  {
+                       "filesize":  "86.11 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12401MichaelSherwin.GameStudioTycoon3_2016.803.201.0_neutral_~_jfyqapq4zvm82.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12401MichaelSherwin.GameStudioTycoon3_2016.803.201.0_neutral_~_jfyqapq4zvm82.appxbundle",
+    "displayname":  "Game Studio Tycoon 3"
+}

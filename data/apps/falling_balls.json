@@ -1,0 +1,19 @@
+{
+    "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+    "ratingsCount":  "14,200",
+    "mainStars":  5,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+    "app_identity":  {
+                         "publisher":  "BIT-101",
+                         "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                         "displayname":  "Falling Balls"
+                     },
+    "deployment":  {
+                       "filesize":  "0.38 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_10764BIT-101.FallingBalls_1.1.0.5_neutral__nn7k8n1ev4xke.Appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_10764BIT-101.FallingBalls_1.1.0.5_neutral__nn7k8n1ev4xke.Appx",
+    "displayname":  "Falling Balls"
+}

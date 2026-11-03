@@ -1,0 +1,53 @@
+{
+    "squareTile":  {
+                       "2":  {
+                                 "title":  "Microsoft Mahjong",
+                                 "description":  "Classic tile matching",
+                                 "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                             },
+                       "1":  {
+                                 "title":  "Skype",
+                                 "description":  "Free video calling and chat",
+                                 "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                             },
+                       "0":  {
+                                 "title":  "Game Studio Tycoon 3",
+                                 "description":  "Build your game empire!",
+                                 "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                             }
+                   },
+    "wideTile":  {
+                     "2":  {
+                               "title":  "Microsoft Mahjong",
+                               "description":  "Classic tile matching",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                           },
+                     "1":  {
+                               "title":  "Skype",
+                               "description":  "Free video calling and chat",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                           },
+                     "0":  {
+                               "title":  "Game Studio Tycoon 3",
+                               "description":  "Build your game empire!",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                           }
+                 },
+    "hugeTile":  {
+                     "2":  {
+                               "title":  "Microsoft Mahjong",
+                               "description":  "Classic tile matching",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png"
+                           },
+                     "1":  {
+                               "title":  "Skype",
+                               "description":  "Free video calling and chat",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png"
+                           },
+                     "0":  {
+                               "title":  "Game Studio Tycoon 3",
+                               "description":  "Build your game empire!",
+                               "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png"
+                           }
+                 }
+}

@@ -1,0 +1,19 @@
+{
+    "description":  "Up-to-date weather conditions, hourly forecasts, 10-day trends, interactive radar maps, and historical averages.",
+    "ratingsCount":  "98,000",
+    "mainStars":  5,
+    "category":  "News \u0026 Weather",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Weather_Retiled.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Up-to-date weather conditions, hourly forecasts, 10-day trends, interactive radar maps, and historical averages.",
+                         "displayname":  "MSN Weather"
+                     },
+    "deployment":  {
+                       "filesize":  "19.58 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Weather_Retiled.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Weather_Retiled.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Weather_Retiled.appx",
+    "displayname":  "MSN Weather"
+}

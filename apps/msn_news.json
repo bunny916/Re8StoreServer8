@@ -1,0 +1,19 @@
+{
+    "description":  "Top headlines and breaking stories from premier news sources around the world tailored to your topics.",
+    "ratingsCount":  "61,000",
+    "mainStars":  4,
+    "category":  "MSN \u0026 Weather",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Top headlines and breaking stories from premier news sources around the world tailored to your topics.",
+                         "displayname":  "MSN News"
+                     },
+    "deployment":  {
+                       "filesize":  "9.64 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/msn_news.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/Microsoft.BingNews_2016.408.1840.2841_neutral_~_8wekyb3d8bbwe.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/Microsoft.BingNews_2016.408.1840.2841_neutral_~_8wekyb3d8bbwe.appxbundle",
+    "displayname":  "MSN News"
+}

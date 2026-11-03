@@ -1,0 +1,19 @@
+{
+    "description":  "Test your pop culture knowledge! Identify hundreds of world-famous celebrities, actors, and icons.",
+    "ratingsCount":  "28,000",
+    "mainStars":  4,
+    "category":  "Games",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/guess_the_celeb.png",
+    "app_identity":  {
+                         "publisher":  "Bubble Quiz Games",
+                         "description":  "Test your pop culture knowledge! Identify hundreds of world-famous celebrities, actors, and icons.",
+                         "displayname":  "Guess The Celeb Quiz"
+                     },
+    "deployment":  {
+                       "filesize":  "9.19 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/guess_the_celeb.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12617bubblequizgames.GuessTheCelebQuiz_2015.903.1236.857_neutral_~_ay53zzg3tew8a.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12617bubblequizgames.GuessTheCelebQuiz_2015.903.1236.857_neutral_~_ay53zzg3tew8a.appxbundle",
+    "displayname":  "Guess The Celeb Quiz"
+}

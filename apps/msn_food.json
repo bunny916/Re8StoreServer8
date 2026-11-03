@@ -1,0 +1,19 @@
+{
+    "description":  "Explore over 100,000 recipes, wine pairing guides, grocery shopping lists, and hands-free cooking mode.",
+    "ratingsCount":  "48,000",
+    "mainStars":  5,
+    "category":  "Lifestyle",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Food_And_Drink_Retiled.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Explore over 100,000 recipes, wine pairing guides, grocery shopping lists, and hands-free cooking mode.",
+                         "displayname":  "MSN Food \u0026 Drink"
+                     },
+    "deployment":  {
+                       "filesize":  "3.94 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Food_And_Drink_Retiled.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Food_And_Drink_Retiled.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Food_And_Drink_Retiled.appx",
+    "displayname":  "MSN Food \u0026 Drink"
+}

@@ -1,0 +1,19 @@
+{
+    "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+    "ratingsCount":  "12,400",
+    "mainStars":  5,
+    "category":  "Entertainment",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+    "app_identity":  {
+                         "publisher":  "Asparion",
+                         "description":  "Realistic xylophone simulator with studio quality acoustic samples and responsive multi-touch keys.",
+                         "displayname":  "Asparion Xylophone"
+                     },
+    "deployment":  {
+                       "filesize":  "3.57 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_xylophone.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12199Asparion.AsparionXylophone_2.2.1.12_neutral__f89vgcf3qm37t.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12199Asparion.AsparionXylophone_2.2.1.12_neutral__f89vgcf3qm37t.appx",
+    "displayname":  "Asparion Xylophone"
+}

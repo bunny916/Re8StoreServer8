@@ -1,0 +1,19 @@
+{
+    "description":  "Unified cloud storage client connecting OneDrive, Google Drive, Dropbox, Box, and Mega in one Modern UI.",
+    "ratingsCount":  "19,300",
+    "mainStars":  4,
+    "category":  "Social \u0026 Communication",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+    "app_identity":  {
+                         "publisher":  "Alvaro Rivoir",
+                         "description":  "Unified cloud storage client connecting OneDrive, Google Drive, Dropbox, Box, and Mega in one Modern UI.",
+                         "displayname":  "Woopiti Cloud Manager"
+                     },
+    "deployment":  {
+                       "filesize":  "23.83 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12605AlvaroRivoir.Woopiti_1.4.50.0_neutral_~_fg65jht2cywtr.appxbundle"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12605AlvaroRivoir.Woopiti_1.4.50.0_neutral_~_fg65jht2cywtr.appxbundle",
+    "displayname":  "Woopiti Cloud Manager"
+}

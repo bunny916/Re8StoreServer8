@@ -1,0 +1,19 @@
+{
+    "description":  "Read millions of eBooks, magazines, and textbooks with customizable font sizes, night mode, and whispersync.",
+    "ratingsCount":  "185,000",
+    "mainStars":  5,
+    "category":  "Shopping \u0026 Books",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/kindle.png",
+    "app_identity":  {
+                         "publisher":  "AMZN Mobile LLC",
+                         "description":  "Read millions of eBooks, magazines, and textbooks with customizable font sizes, night mode, and whispersync.",
+                         "displayname":  "Amazon Kindle"
+                     },
+    "deployment":  {
+                       "filesize":  "1.82 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/kindle.png",
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
+                   },
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx",
+    "displayname":  "Amazon Kindle"
+}

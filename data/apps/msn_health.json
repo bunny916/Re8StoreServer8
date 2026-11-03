@@ -1,0 +1,19 @@
+{
+    "description":  "Diet and calorie trackers, exercise video routines, 3D interactive human anatomy models, and symptom checker.",
+    "ratingsCount":  "39,000",
+    "mainStars":  5,
+    "category":  "Health",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Health_And_Fitness_Retiled.png",
+    "app_identity":  {
+                         "publisher":  "Microsoft Corporation",
+                         "description":  "Diet and calorie trackers, exercise video routines, 3D interactive human anatomy models, and symptom checker.",
+                         "displayname":  "MSN Health \u0026 Fitness"
+                     },
+    "deployment":  {
+                       "filesize":  "5.04 MB",
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/MSN_Health_And_Fitness_Retiled.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Health_And_Fitness_Retiled.appx"
+                   },
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/MSN_Health_And_Fitness_Retiled.appx",
+    "displayname":  "MSN Health \u0026 Fitness"
+}
