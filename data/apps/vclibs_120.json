@@ -2,7 +2,7 @@
     "description":  "Core native C++ execution libraries required by modern Windows 8.1 Store games and applications.",
     "ratingsCount":  "850,000",
     "mainStars":  5,
-    "category":  "Framework \u0026 Dependencies",
+    "category":  "Dependency",
     "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/vclibs_120.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
