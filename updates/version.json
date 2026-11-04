@@ -1,11 +1,11 @@
-{
+﻿{
     "url":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
     "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
-    "version":  "6.1.0.3",
+    "version":  "6.1.0.4",
     "ForceUpdate":  false,
-    "ReleaseNotes":  "8Store Patched: Immediate GridView ItemsSource loaded fix and Collections icon modulo repeat",
-    "LatestVersion":  "6.1.0.3",
+    "ReleaseNotes":  "8Store Patched: Fix category filter by invoking FilterAppsByCategory and immediate cache binding in OnNavigatedTo",
+    "LatestVersion":  "6.1.0.4",
     "mandatory":  false,
     "MinimumSupportedVersion":  "1.0.0.0",
-    "changelog":  "8Store Patched: Immediate GridView ItemsSource loaded fix and Collections icon modulo repeat"
+    "changelog":  "8Store Patched: Fix category filter by invoking FilterAppsByCategory and immediate cache binding in OnNavigatedTo"
 }
