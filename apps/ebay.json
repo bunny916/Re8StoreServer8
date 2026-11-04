@@ -12,8 +12,8 @@
     "deployment":  {
                        "filesize":  "2.04 MB",
                        "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/ebay.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip"
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0%20eBayInc.eBay_1618n3s9xq8tw.appx"
                    },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 eBayInc.eBay_1618n3s9xq8tw.zip",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0%20eBayInc.eBay_1618n3s9xq8tw.appx",
     "displayname":  "eBay for Windows 8"
 }

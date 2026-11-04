@@ -12,8 +12,8 @@
     "deployment":  {
                        "filesize":  "75.56 MB",
                        "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.zip"
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1%20Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1 Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.zip",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1%20Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx",
     "displayname":  "Microsoft Solitaire Collection"
 }

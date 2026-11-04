@@ -3,7 +3,7 @@
     "ratingsCount":  "85,000",
     "mainStars":  5,
     "category":  "Dependency",
-    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.png",
+    "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/winjs.png",
     "app_identity":  {
                          "publisher":  "Microsoft Corporation",
                          "description":  "Windows Library for JavaScript framework powering Metro HTML/JS Store applications.",
@@ -11,9 +11,9 @@
                      },
     "deployment":  {
                        "filesize":  "1.12 MB",
-                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.png",
-                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.Appx"
+                       "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/winjs.png",
+                       "downloadUri":  "https://archive.org/download/Win8AppxArchive/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://archive.org/download/Win8AppxArchive/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.Appx",
+    "downloadUri":  "https://archive.org/download/Win8AppxArchive/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.appx",
     "displayname":  "Microsoft WinJS Framework"
 }

@@ -12,8 +12,8 @@
     "deployment":  {
                        "filesize":  "17.55 MB",
                        "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip"
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0%20Microsoft.SkypeApp_kzf8qxf38zg5c.appx"
                    },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0 Microsoft.SkypeApp_kzf8qxf38zg5c.zip",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0%20Microsoft.SkypeApp_kzf8qxf38zg5c.appx",
     "displayname":  "Skype for Windows 8"
 }

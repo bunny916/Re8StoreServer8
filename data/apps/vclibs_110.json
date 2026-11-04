@@ -12,8 +12,8 @@
     "deployment":  {
                        "filesize":  "2.6 MB",
                        "imgUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/vclibs_110.png",
-                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.Appx"
+                       "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.appx"
                    },
-    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.Appx",
+    "downloadUri":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Microsoft.VCLibs.110.00_11.0.51106.1_x64__8wekyb3d8bbwe.appx",
     "displayname":  "Microsoft Visual C++ 11.0 Runtime"
 }
