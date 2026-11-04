@@ -1,11 +1,11 @@
-﻿{
+{
     "url":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
     "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
-    "version":  "6.1.0.4",
+    "version":  "6.1.0.5",
     "ForceUpdate":  false,
-    "ReleaseNotes":  "8Store Patched: Fix category filter by invoking FilterAppsByCategory and immediate cache binding in OnNavigatedTo",
-    "LatestVersion":  "6.1.0.4",
+    "ReleaseNotes":  "8Store Patched v6.1.0.5: Fix All apps view showing 0 apps in CollectionsViewPage; add automated certificate trust and installer script for clean VM setups.",
+    "LatestVersion":  "6.1.0.5",
     "mandatory":  false,
     "MinimumSupportedVersion":  "1.0.0.0",
-    "changelog":  "8Store Patched: Fix category filter by invoking FilterAppsByCategory and immediate cache binding in OnNavigatedTo"
+    "changelog":  "8Store Patched v6.1.0.5: Fix All apps view showing 0 apps in CollectionsViewPage; add automated certificate trust and installer script for clean VM setups."
 }
