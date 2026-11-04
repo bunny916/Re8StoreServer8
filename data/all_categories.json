@@ -1,0 +1,30 @@
+{
+    "app_categories":  [
+                           "Utilities",
+                           "Social",
+                           "Shopping",
+                           "Productivity",
+                           "Music + Audio",
+                           "News + Weather",
+                           "Food + Cooking",
+                           "Health + Fitness",
+                           "Finance",
+                           "Sports",
+                           "Travel + Navigation",
+                           "Books + Reference",
+                           "Security",
+                           "Education",
+                           "Entertainment"
+                       ],
+    "game_categories":  [
+                            "Games",
+                            "Arcade",
+                            "Action",
+                            "Adventure",
+                            "Card + Casino",
+                            "Classics",
+                            "Puzzle",
+                            "Simulation",
+                            "Strategy"
+                        ]
+}

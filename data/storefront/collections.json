@@ -1,0 +1,230 @@
+[
+    {
+        "name":  "Social",
+        "icon1url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+        "icon4url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+        "icon3url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+        "icon2url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+        "contents":  [
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/8.0%20Microsoft.SkypeApp_kzf8qxf38zg5c.appx",
+                             "id":  "skype",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "Social",
+                             "description":  "Official Windows 8 Skype modern app featuring free video calling, voice calls, instant messaging, and Snap View.",
+                             "name":  "Skype for Windows 8",
+                             "publisher":  "Skype Technologies",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/skype.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_DoveConviene.DoveConviene_2016.1108.2135.0_neutral_~_bqe57f3s2ra82.AppxBundle",
+                             "id":  "doveconviene",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "Shopping",
+                             "description":  "Browse digital store circulars, special discounts, and neighborhood retail deals in one touch.",
+                             "name":  "DoveConviene Deals",
+                             "publisher":  "DoveConviene",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/doveconviene.png",
+                             "featured":  false
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12605AlvaroRivoir.Woopiti_1.4.50.0_neutral_~_fg65jht2cywtr.appxbundle",
+                             "id":  "woopiti",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "Productivity",
+                             "description":  "Unified cloud storage client connecting OneDrive, Google Drive, Dropbox, Box, and Mega in one Modern UI.",
+                             "name":  "Woopiti Cloud Manager",
+                             "publisher":  "Alvaro Rivoir",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/woopiti.png",
+                             "featured":  false
+                         }
+                     ]
+    },
+    {
+        "name":  "Arcade",
+        "icon1url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+        "icon4url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+        "icon3url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+        "icon2url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/logo_quiz.png",
+        "contents":  [
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_10764BIT-101.FallingBalls_1.1.0.5_neutral__nn7k8n1ev4xke.Appx",
+                             "id":  "falling_balls",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Arcade",
+                             "description":  "Addictive physics simulation puzzle where you bounce and drop balls through intricate pegboards.",
+                             "name":  "Falling Balls",
+                             "publisher":  "BIT-101",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/falling_balls.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12617bubblequizgames.LogoQuizGame_2015.820.1155.3292_neutral_~_ay53zzg3tew8a.appxbundle",
+                             "id":  "logo_quiz",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Arcade",
+                             "description":  "Guess over 1,000 global company brand logos with hints, levels, and achievements.",
+                             "name":  "Logo Quiz Game",
+                             "publisher":  "Bubble Quiz Games",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/logo_quiz.png",
+                             "featured":  false
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_11254SHIGEZO.5188824A60F8F_2017.409.630.0_neutral_~_jzaxj9pp73jrj.appxbundle",
+                             "id":  "number_place",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Arcade",
+                             "description":  "Classic Japanese Number Place Sudoku puzzle with hundreds of grids from beginner to expert.",
+                             "name":  "Number Place Puzzle",
+                             "publisher":  "SHIGEZO",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/number_place.png",
+                             "featured":  false
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12705GameStone.CowboyHorseRidingSimulation_2016.518.1049.2295_neutral_~_xx7a0xg4kw6vg.appxbundle",
+                             "id":  "cowboy_horse_riding",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Arcade",
+                             "description":  "Exciting 3D Wild West horse riding simulation featuring obstacle courses, stunts, and frontier trails.",
+                             "name":  "Cowboy Horse Riding",
+                             "publisher":  "GameStone Studio",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/cowboy_horse_riding.png",
+                             "featured":  false
+                         }
+                     ]
+    },
+    {
+        "name":  "New \u0026 Rising",
+        "icon1url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+        "icon4url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+        "icon3url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+        "icon2url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/the_weather_channel.png",
+        "contents":  [
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12401MichaelSherwin.GameStudioTycoon3_2016.803.201.0_neutral_~_jfyqapq4zvm82.appxbundle",
+                             "id":  "game_studio_tycoon_3",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "New \u0026 Rising",
+                             "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                             "name":  "Game Studio Tycoon 3",
+                             "publisher":  "Michael Sherwin",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1%20Weather.TheWeatherChannelforHP_1.1.1.0_x64__t3yemqpq4kp7p.appx",
+                             "id":  "the_weather_channel",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "News + Weather",
+                             "description":  "Interactive radar maps, severe weather warnings, 15-day forecasts, and hourly weather conditions.",
+                             "name":  "The Weather Channel for HP",
+                             "publisher":  "The Weather Channel",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/the_weather_channel.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Drawboard.DrawboardPDF_2015.1001.648.0_neutral_~_gqbn7fs4pywxm.AppxBundle",
+                             "id":  "drawboard_pdf",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "New \u0026 Rising",
+                             "description":  "The #1 PDF markup and annotation app built for Windows touch and pen stylus with smooth vector ink.",
+                             "name":  "Drawboard PDF",
+                             "publisher":  "Drawboard",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/drawboard_pdf.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12199Asparion.Metronom_3.0.4.0_x86__f89vgcf3qm37t.appx",
+                             "id":  "asparion_metronome",
+                             "type":  "App",
+                             "version":  "1.0.0.0",
+                             "category":  "Utilities",
+                             "description":  "Precision tempo keeper for musicians with visual pulse display, tap tempo, and rhythm patterns.",
+                             "name":  "Asparion Metronome",
+                             "publisher":  "Asparion",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/asparion_metronome.png",
+                             "featured":  true
+                         }
+                     ]
+    },
+    {
+        "name":  "Games",
+        "icon1url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+        "icon4url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png",
+        "icon3url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+        "icon2url":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+        "contents":  [
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_12401MichaelSherwin.GameStudioTycoon3_2016.803.201.0_neutral_~_jfyqapq4zvm82.appxbundle",
+                             "id":  "game_studio_tycoon_3",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "New \u0026 Rising",
+                             "description":  "Build your game development empire! Hire developers, create hit games, and conquer the industry.",
+                             "name":  "Game Studio Tycoon 3",
+                             "publisher":  "Michael Sherwin",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/game_studio_tycoon_3.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1%20Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe.appx",
+                             "id":  "mahjong",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Games",
+                             "description":  "Match beautiful tiles with relaxing Asian artwork, atmospheric sounds, multiple themes, and daily challenges.",
+                             "name":  "Microsoft Mahjong",
+                             "publisher":  "Microsoft Studios",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/mahjong.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/8.1%20Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe.appx",
+                             "id":  "solitaire_collection",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Games",
+                             "description":  "The world\u0027s #1 card game suite featuring Klondike, Spider, FreeCell, Pyramid, and TriPeaks.",
+                             "name":  "Microsoft Solitaire Collection",
+                             "publisher":  "Microsoft Studios",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/solitaire_collection.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_Disney.DisneyClassicSolitaire_1.0.0.43_arm__6rarf9sa4v8jt.Appx",
+                             "id":  "disney_solitaire",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Games",
+                             "description":  "Play through magical Peter Pan and The Jungle Book animated scenes in this charming Disney card adventure.",
+                             "name":  "Disney Classic Solitaire",
+                             "publisher":  "Disney",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/disney_solitaire.png",
+                             "featured":  true
+                         },
+                         {
+                             "downloadUrl":  "https://bunny916.github.io/Re8StoreServer8/apps/store_ext_E0469640.FishingJoy_1.0.0.3_x86__5grkq8ppsgwt4.appx",
+                             "id":  "fishing_joy",
+                             "type":  "Game",
+                             "version":  "1.0.0.0",
+                             "category":  "Games",
+                             "description":  "Deep sea arcade fishing! Fire laser nets, catch exotic marine creatures, and hunt giant sunken treasures.",
+                             "name":  "Fishing Joy",
+                             "publisher":  "LENOVO INC",
+                             "iconUrl":  "https://bunny916.github.io/Re8StoreServer8/assets/icons/fishing_joy.png",
+                             "featured":  false
+                         }
+                     ]
+    }
+]
