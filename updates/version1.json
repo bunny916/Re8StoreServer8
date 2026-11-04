@@ -1,0 +1,11 @@
+﻿{
+    "url":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
+    "DownloadUrl":  "https://bunny916.github.io/Re8StoreServer8/updates/update.appx",
+    "ForceUpdate":  false,
+    "version":  "6.1.0.7",
+    "LatestVersion":  "6.1.0.7",
+    "mandatory":  false,
+    "ReleaseNotes":  "8Store Patched v6.1.0.7: Fix All apps async timing in CollectionsViewPage; fix search suggestion/result click navigation crash.",
+    "MinimumSupportedVersion":  "1.0.0.0",
+    "changelog":  "8Store Patched v6.1.0.7: Fix All apps async timing in CollectionsViewPage; fix search suggestion/result click navigation crash."
+}
